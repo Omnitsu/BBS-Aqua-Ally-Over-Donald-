@@ -1,0 +1,18 @@
+title: Aqua Ally(Over Donald)
+originalAuthor: Omniツ
+description: Custom Aqua Ally.
+assets:
+ - name: obj/P_EX020.mdlx
+ - name: obj/P_EX020.a.fm
+ - name: obj/P_EX020.mset
+ - name: obj/W_EX020.mdlx
+ - name: obj/W_EX020.mset
+ - name: obj/W_EX020.a.fm
+   method: copy
+   source:
+     - name: obj/P_EX020.mdlx
+     - name: obj/P_EX020.a.fm
+     - name: obj/P_EX020.mset
+     - name: obj/W_EX020.mdlx
+     - name: obj/W_EX020.mset
+     - name: obj/W_EX020.a.fm
