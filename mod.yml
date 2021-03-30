@@ -21,7 +21,7 @@ assets:
  - name: obj/W_EX020.mset
    method: copy
    source:
-     - name: obj/W_EX030.mset
+     - name: obj/W_EX020.mset
  - name: obj/W_EX020.a.fm
    method: copy
    source:
